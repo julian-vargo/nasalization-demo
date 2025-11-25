@@ -1,5 +1,5 @@
 # Nasalization Demo
-Replication of Carignan et al's 2023 Arabana Study w/ new acoustical data
+A partial replication of Carignan et al's 2023 Arabana Study with new acoustical data.
 
 original paper here: https://doi.org/10.16995/labphon.9152
 
